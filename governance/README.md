@@ -5,20 +5,21 @@
 - Architecture governance
 - Finance process ownership
 - Data governance
-- Security & SoD
+- Security and segregation of duties
 - Regulatory compliance
 - AI governance
 - Integration governance
-- Release/change governance
+- Release and change governance
 - KPI governance
-- Vendor/ecosystem governance
+- Vendor and ecosystem governance
 
-## Decision Records
+## Architecture Decision Records
 
-Major architecture decisions should be captured as ADRs with:
-- decision
-- context
-- options
-- consequences
-- owner
-- review date
+Major decisions should capture:
+
+- Decision
+- Context
+- Options considered
+- Consequences
+- Owner
+- Review date
