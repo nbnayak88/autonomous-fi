@@ -59,7 +59,7 @@ Finance is treated as an enterprise capability ecosystem connecting people, proc
 
 | # | Code | Stream | Product / Course Theme |
 |---:|---|---|---|
-| 01 | AFR1 | Record to Report | Applied SAP S/4HANA Finance |
+| 01 | AFR1 | [Record to Report](streams/AFR1-record-to-report.md) | Applied SAP S/4HANA Finance |
 | 02 | APT2 | Procure to Pay | Applied SAP FI-AP |
 | 03 | AOT3 | Order to Cash | Applied SAP FI-AR |
 | 04 | ATX4 | Tax & Compliance | Applied SAP Document & Reporting Compliance (DRC) |
@@ -71,6 +71,24 @@ Finance is treated as an enterprise capability ecosystem connecting people, proc
 | 10 | AFI0 | Finance Analytics & Intelligence | Applied SAP Analytics Cloud for Finance |
 | 11 | AAI1-FI | AI-Powered Finance | Applied SAP Business AI • Joule • AI Agents for Finance |
 | 12 | AIG2-FI | Connected Finance | Applied SAP Integration Suite for Finance |
+
+### Stream Files
+
+```text
+streams/
+├── AFR1-record-to-report.md
+├── APT2-procure-to-pay.md
+├── AOT3-order-to-cash.md
+├── ATX4-tax-compliance.md
+├── ATR5-treasury-risk.md
+├── AFP6-financial-planning-performance.md
+├── ACC7-controlling-profitability.md
+├── AFA8-asset-accounting.md
+├── AGR9-governance-risk-compliance.md
+├── AFI0-finance-analytics-intelligence.md
+├── AAI1-FI-ai-powered-finance.md
+└── AIG2-FI-connected-finance.md
+```
 
 ## Repository Structure
 
@@ -92,6 +110,7 @@ autonomous-fi/
 │   ├── gold/
 │   ├── diamond/
 │   └── quantum/
+├── streams/
 ├── labs/
 │   ├── 01-discover-product-innovation/
 │   ├── 02-flow-process-excellence/
