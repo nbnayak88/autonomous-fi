@@ -1,14 +1,15 @@
 # Finance Standards
 
-Standards and reusable patterns should cover:
+Reusable standards should cover:
 
 - APQC process architecture
 - Finance capability architecture
 - Data quality and lineage
+- Chart of accounts and reference data governance
 - API and event contracts
-- SoD and financial controls
+- Segregation of duties and financial controls
 - Regulatory and tax compliance
 - AI governance
 - Integration standards
-- Analytics/KPI standards
-- Reference data and chart-of-accounts governance
+- Analytics and KPI standards
+- Security and privacy
