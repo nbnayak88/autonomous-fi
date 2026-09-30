@@ -1,5 +1,13 @@
-# Projects — Applied SAP Business AI • Joule • AI Agents for Finance
+# Projects — AAI1-FI AI-Powered Finance
 
-**Stream:** AAI1-FI — AI-Powered Finance
+**Applied SAP Finance | AAI1-FI | AI-Powered Finance**
 
-Shared workspace for projects associated with **Applied SAP Business AI • Joule • AI Agents for Finance**.
+Build an AI Finance Control Tower with finance agents, trusted data, orchestration, controls, human oversight, KPI/value measurement, governance, and transformation roadmap.
+
+## Expected Output
+
+A reusable portfolio artifact demonstrating AI Finance architecture thinking and responsible agentic problem-solving.
+
+## Evidence
+
+**Problem → AI Opportunity → Context/Data → Agent/AI Design → Control → Result → Reflection**

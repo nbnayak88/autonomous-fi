@@ -1,5 +1,13 @@
-# Scenarios — Applied SAP Business AI • Joule • AI Agents for Finance
+# Scenarios — AAI1-FI AI-Powered Finance
 
-**Stream:** AAI1-FI — AI-Powered Finance
+**Applied SAP Finance | AAI1-FI | AI-Powered Finance**
 
-Shared workspace for scenarios associated with **Applied SAP Business AI • Joule • AI Agents for Finance**.
+Solve realistic AI Finance situations such as reconciliation anomaly, invoice exception, cash forecast change, close acceleration, collections recommendation, compliance alert, and management variance explanation.
+
+## Expected Output
+
+A reusable portfolio artifact demonstrating AI Finance architecture thinking and responsible agentic problem-solving.
+
+## Evidence
+
+**Problem → AI Opportunity → Context/Data → Agent/AI Design → Control → Result → Reflection**

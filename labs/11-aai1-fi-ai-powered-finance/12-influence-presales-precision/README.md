@@ -1,18 +1,39 @@
-# Influence - Presales Precision Lab
+# Influence — AAI1-FI AI-Powered Finance
 
-**Course:** Applied SAP Business AI • Joule • AI Agents for Finance
-**Stream:** AAI1-FI — AI-Powered Finance
-
-This is the **Influence - Presales Precision Lab** within the Applied SAP Business AI • Joule • AI Agents for Finance learning journey.
+**Applied SAP Finance | AAI1-FI | AI-Powered Finance**
 
 ## Purpose
 
-Use this lab for enterprise examples, SAP process context, architecture thinking, experimentation, and reusable learning artifacts for the AAI1-FI Finance capability.
+Create an AI Finance presales toolkit covering opportunity discovery, AI value hypotheses, use-case prioritization, architecture, demo narrative, governance, ROI logic, and transformation roadmap.
 
-## Evidence to Build
+## Enterprise Question
 
-- Problem / opportunity statement
-- Process or capability view
-- Architecture or solution artifact
-- Industry scenario
-- Reflection and next-step experiment
+> Where can AI augment human judgment, automate repeatable finance work, surface exceptions, and enable better decisions without weakening financial control?
+
+## Architecture Evidence
+
+Produce at least one reusable artifact:
+
+- AI capability/use-case map
+- finance value-stream/agent map
+- agent/tool/context architecture
+- data/grounding flow
+- integration/orchestration model
+- human-in-loop control
+- AI risk/governance model
+- evaluation/monitoring framework
+- KPI/value model
+- prototype/demo
+- scenario decision record
+
+## Learning Loop
+
+**Understand → Model → Experiment → Build → Validate → Reflect**
+
+## AI Finance Context
+
+**Business Event → Data → Context → Reasoning → Recommendation/Action → Human Control → Execution → Outcome**
+
+## Definition of Done
+
+The learner can explain the finance problem and AI role, identify data and architecture dependencies, demonstrate or evaluate the AI solution, define appropriate controls, and connect it to measurable business value.
