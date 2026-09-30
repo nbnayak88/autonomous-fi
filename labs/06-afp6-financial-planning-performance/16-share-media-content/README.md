@@ -1,18 +1,37 @@
-# Share - Media & Content Lab
+# Share — AFP6 Financial Planning & Performance
 
-**Course:** Applied SAP Analytics Cloud for Financial Planning, Budgeting & Forecasting
-**Stream:** AFP6 — Financial Planning & Performance
-
-This is the **Share - Media & Content Lab** within the Applied SAP Analytics Cloud for Financial Planning, Budgeting & Forecasting learning journey.
+**Applied SAP Finance | AFP6 | Financial Planning & Performance**
 
 ## Purpose
 
-Use this lab for enterprise examples, SAP process context, architecture thinking, experimentation, and reusable learning artifacts for the AFP6 Finance capability.
+Create FP&A explainers, planning-cycle diagrams, demos, videos, podcasts, and visual stories that make budgeting and forecasting memorable.
 
-## Evidence to Build
+## Enterprise Question
 
-- Problem / opportunity statement
-- Process or capability view
-- Architecture or solution artifact
-- Industry scenario
-- Reflection and next-step experiment
+> How do we make planning more connected, driver-based, scenario-aware, adaptive, measurable, and increasingly autonomous?
+
+## Architecture Evidence
+
+Produce at least one reusable artifact:
+
+- process/value-stream view
+- capability or driver map
+- planning model
+- solution/architecture view
+- data or integration flow
+- governance/control model
+- KPI or operating model
+- prototype/demo
+- scenario decision record
+
+## Learning Loop
+
+**Understand → Model → Experiment → Build → Validate → Reflect**
+
+## FP&A Context
+
+**Strategy → Drivers → Plan → Budget → Forecast → Actuals → Variance → Scenario → Decision → Replan**
+
+## Definition of Done
+
+The learner can explain the business outcome, identify architecture dependencies, demonstrate the planning solution or decision, and connect the result to measurable FP&A value.
