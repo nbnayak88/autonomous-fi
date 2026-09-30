@@ -1,62 +1,76 @@
-# Autonomous Finance
+# Architecting Autonomous Finance
 
-> **Master repository for the Autonomous Finance architecture ecosystem**
+**Repository:** `autonomous-fi`  
+**Learning Ecosystem:** SuccessLabs Academy  
+**Domain:** Finance / Financial Transformation / Enterprise Architecture
 
-Autonomous Finance is the master architecture repository for a capability-led, process-centric, technology-agnostic approach to designing, learning, implementing, integrating, operating, and continuously evolving modern finance enterprises.
+## Purpose
 
-The repository is the orchestration and reference layer for **12 Finance Architecture Streams**. Stream repositories remain independently managed; this master repository provides the common architecture, navigation, cross-stream models, governance, reference assets, case studies, and learning ecosystem.
+SuccessLabs Finance learning ecosystem for autonomous financial enterprises.
+
+This repository is a living learning and experimentation ecosystem for finance architecture, applied learning, hands-on labs, reusable assets, research, emerging finance technology, implementation patterns, and autonomous finance practices.
 
 ## North Star
 
 **Architecting Autonomous Financial Enterprises**
 
-Autonomous Finance connects finance capabilities, people, processes, data, applications, technology, AI, integration, security, experience, analytics, controls, and ecosystem partners into a coherent enterprise architecture.
+Finance is treated as an enterprise capability ecosystem connecting people, process, technology, data, AI, controls, integration, analytics, risk, compliance, cash, profitability, and decision intelligence.
 
-## Architectural Position
+## Learning Levels
 
-This repository is **capability-first, process-centric, ERP-agnostic, and platform-neutral**.
+| Level | Learning Intent |
+|---|---|
+| Bronze | Understand — foundations and awareness |
+| Silver | Apply — essentials and applied practice |
+| Gold | Architect — advanced architecture and implementation |
+| Diamond | Lead — enterprise mastery and leadership |
+| Quantum | Experiment & Invent — frontier concepts, prototypes and research |
 
-SAP S/4HANA and other finance platforms are enabling components within the wider financial ecosystem rather than the organizing principle.
+## 20 Labs
 
-## 12 Finance Architecture Streams
+| # | Theme | Lab | Full Lab Identity |
+|---:|---|---|---|
+| 01 | **Discover** | Product Innovation Lab | **Discover - Product Innovation Lab** |
+| 02 | **Flow** | Process Excellence Lab | **Flow - Process Excellence Lab** |
+| 03 | **Design** | Strategy & Architecture Lab | **Design - Strategy & Architecture Lab** |
+| 04 | **Run** | Operations Optimization Lab | **Run - Operations Optimization Lab** |
+| 05 | **Build** | Implementation Intelligence Lab | **Build - Implementation Intelligence Lab** |
+| 06 | **Move** | Migration Modernization Lab | **Move - Migration Modernization Lab** |
+| 07 | **Connect** | Integration Intelligence Lab | **Connect - Integration Intelligence Lab** |
+| 08 | **Validate** | Quality Assurance Lab | **Validate - Quality Assurance Lab** |
+| 09 | **Support** | Application Management Services Lab | **Support - Application Management Services Lab** |
+| 10 | **Prove** | Certification Command Lab | **Prove - Certification Command Lab** |
+| 11 | **Scale** | School of Career Acceleration Lab for Excellence | **Scale - School of Career Acceleration Lab for Excellence** |
+| 12 | **Influence** | Presales Precision Lab | **Influence - Presales Precision Lab** |
+| 13 | **Lead** | Project Performance Lab | **Lead - Project Performance Lab** |
+| 14 | **Prototype** | Product Prototyping Lab | **Prototype - Product Prototyping Lab** |
+| 15 | **Evolve** | Future Technologies Lab | **Evolve - Future Technologies Lab** |
+| 16 | **Share** | Media & Content Lab | **Share - Media & Content Lab** |
+| 17 | **Document** | Knowledge Keystone Lab | **Document - Knowledge Keystone Lab** |
+| 18 | **Engage** | Experts Engagement Lab | **Engage - Experts Engagement Lab** |
+| 19 | **Scan** | Industry Intelligence Lab | **Scan - Industry Intelligence Lab** |
+| 20 | **Innovate** | Research & Innovation Lab | **Innovate - Research & Innovation Lab** |
 
-| # | Code | Stream | Product / Course Theme | Primary Process Area |
-|---:|---|---|---|---|
-| 01 | AFR1 | Record to Report | Applied SAP S/4HANA Finance | Record to Report (R2R) |
-| 02 | APT2 | Procure to Pay | Applied SAP FI-AP | Procure to Pay (P2P) |
-| 03 | AOT3 | Order to Cash | Applied SAP FI-AR | Order to Cash (O2C) |
-| 04 | ATX4 | Tax & Compliance | Applied SAP Document & Reporting Compliance (DRC) | Tax Management |
-| 05 | ATR5 | Treasury & Risk | Applied SAP Treasury & Risk Management | Treasury & Cash Management |
-| 06 | AFP6 | Financial Planning & Performance | Applied SAP Analytics Cloud for Financial Planning, Budgeting & Forecasting | Financial Planning & Analysis (FP&A) |
-| 07 | ACC7 | Controlling & Profitability | Applied SAP S/4HANA Controlling (Management Accounting) | Cost & Profitability Management |
-| 08 | AFA8 | Asset Accounting | Applied SAP Group Reporting & Financial Consolidation | Fixed Assets Management |
-| 09 | AGR9 | Governance, Risk & Compliance | Applied SAP Governance, Risk & Compliance (GRC) | Governance, Risk & Compliance |
-| 10 | AFI0 | Finance Analytics & Intelligence | Applied SAP Analytics Cloud for Finance | Financial Analytics & Intelligence |
-| 11 | AAI1-FI | AI-Powered Finance | Applied SAP Business AI • Joule • AI Agents for Finance | AI & Autonomous Finance |
-| 12 | AIG2-FI | Connected Finance | Applied SAP Integration Suite for Finance | Finance Integration & Enterprise Architecture |
+## Learning Philosophy
 
-## APQC-Aligned Architecture
+> **Learn → Experiment → Architect → Build → Share**
 
-Each stream is anchored to a finance process area and then expanded through:
+## Finance Architecture Streams
 
-**Process Area → Finance Capability → Business Process → Architecture → Platform/Ecosystem → Automation → AI → Governance → Measurable Value**
-
-The architecture is deliberately ERP-agnostic so that SAP, Oracle, Microsoft Dynamics, Workday Financials, Coupa, Kyriba, BlackLine, Anaplan, Avalara, ServiceNow, MuleSoft, Boomi, and other platforms can be evaluated as ecosystem components.
-
-## Repository Purpose
-
-The master repository owns the common layer across the 12 streams:
-
-- Enterprise finance reference architecture
-- Finance capability and value-stream models
-- APQC process alignment
-- Finance architecture principles
-- Cross-stream data, application, integration, AI, security, controls, analytics, and experience architecture
-- Platform and ecosystem reference models
-- Reusable templates, checklists, diagrams, and case studies
-- Learning architecture and navigation
-- Autonomous finance maturity models
-- Research and emerging-trend assets
+| # | Code | Stream | Product / Course Theme |
+|---:|---|---|---|
+| 01 | AFR1 | Record to Report | Applied SAP S/4HANA Finance |
+| 02 | APT2 | Procure to Pay | Applied SAP FI-AP |
+| 03 | AOT3 | Order to Cash | Applied SAP FI-AR |
+| 04 | ATX4 | Tax & Compliance | Applied SAP Document & Reporting Compliance (DRC) |
+| 05 | ATR5 | Treasury & Risk | Applied SAP Treasury & Risk Management |
+| 06 | AFP6 | Financial Planning & Performance | Applied SAP Analytics Cloud for Financial Planning, Budgeting & Forecasting |
+| 07 | ACC7 | Controlling & Profitability | Applied SAP S/4HANA Controlling |
+| 08 | AFA8 | Asset Accounting | Applied SAP Group Reporting & Financial Consolidation |
+| 09 | AGR9 | Governance, Risk & Compliance | Applied SAP Governance, Risk & Compliance (GRC) |
+| 10 | AFI0 | Finance Analytics & Intelligence | Applied SAP Analytics Cloud for Finance |
+| 11 | AAI1-FI | AI-Powered Finance | Applied SAP Business AI • Joule • AI Agents for Finance |
+| 12 | AIG2-FI | Connected Finance | Applied SAP Integration Suite for Finance |
 
 ## Repository Structure
 
@@ -64,128 +78,75 @@ The master repository owns the common layer across the 12 streams:
 autonomous-fi/
 ├── README.md
 ├── architecture/
-│   ├── autonomous-finance-reference-architecture.md
-│   ├── finance-capability-model.md
-│   ├── finance-value-streams.md
-│   ├── apqc-alignment.md
-│   ├── architecture-principles.md
-│   ├── finance-data-model.md
-│   ├── finance-integration-reference.md
-│   └── diagrams/
-├── streams/
-│   ├── AFR1-record-to-report.md
-│   ├── APT2-procure-to-pay.md
-│   ├── AOT3-order-to-cash.md
-│   ├── ATX4-tax-compliance.md
-│   ├── ATR5-treasury-risk.md
-│   ├── AFP6-financial-planning-performance.md
-│   ├── ACC7-controlling-profitability.md
-│   ├── AFA8-asset-accounting.md
-│   ├── AGR9-governance-risk-compliance.md
-│   ├── AFI0-finance-analytics-intelligence.md
-│   ├── AAI1-FI-ai-powered-finance.md
-│   └── AIG2-FI-connected-finance.md
-├── cross-stream/
-│   ├── data-architecture/
-│   ├── application-architecture/
-│   ├── integration-architecture/
-│   ├── ai-architecture/
-│   ├── security-controls/
-│   ├── experience-architecture/
-│   ├── analytics-intelligence/
-│   └── finance-operating-model/
-├── ecosystem/
-│   ├── sap/
-│   ├── oracle/
-│   ├── microsoft/
-│   ├── banking/
-│   ├── tax/
-│   ├── treasury/
-│   ├── planning/
-│   ├── controls-grc/
-│   └── ecosystem-reference.md
-├── reference-architectures/
+├── assets/
+│   ├── checklists/
+│   ├── diagrams/
+│   └── templates/
 ├── case-studies/
-├── standards/
+├── cross-stream/
+├── ecosystem/
 ├── governance/
 ├── learning/
+│   ├── bronze/
+│   ├── silver/
+│   ├── gold/
+│   ├── diamond/
+│   └── quantum/
+├── labs/
+│   ├── 01-discover-product-innovation/
+│   ├── 02-flow-process-excellence/
+│   ├── 03-design-strategy-architecture/
+│   ├── 04-run-operations-optimization/
+│   ├── 05-build-implementation-intelligence/
+│   ├── 06-move-migration-modernization/
+│   ├── 07-connect-integration-intelligence/
+│   ├── 08-validate-quality-assurance/
+│   ├── 09-support-application-management-services/
+│   ├── 10-prove-certification-command/
+│   ├── 11-scale-school-of-career-acceleration/
+│   ├── 12-influence-presales-precision/
+│   ├── 13-lead-project-performance/
+│   ├── 14-prototype-product-prototyping/
+│   ├── 15-evolve-future-technologies/
+│   ├── 16-share-media-content/
+│   ├── 17-document-knowledge-keystone/
+│   ├── 18-engage-experts-engagement/
+│   ├── 19-scan-industry-intelligence/
+│   ├── 20-innovate-research-innovation/
+│   ├── hands-on/
+│   ├── projects/
+│   └── scenarios/
+├── docs/
+│   ├── architecture/
+│   ├── frameworks/
+│   └── reference-models/
+├── reference-architectures/
 ├── research/
-└── assets/
-    ├── templates/
-    ├── checklists/
-    ├── diagrams/
-    └── playbooks/
+└── standards/
 ```
 
-## Architecture Flow
+## Autonomous Finance Flow
 
 ```text
-                    AUTONOMOUS FINANCE
-                           |
-                           v
-                   FINANCE CAPABILITIES
-                           |
-                           v
-                    VALUE STREAMS
-                           |
-                           v
-                 APQC PROCESS ARCHITECTURE
-                           |
-          +----------------+----------------+
-          |                |                |
-          v                v                v
-      BUSINESS           DATA          APPLICATION
-     ARCHITECTURE      ARCHITECTURE     ARCHITECTURE
-          |                |                |
-          +----------------+----------------+
-                           |
-                           v
-               TECHNOLOGY • AI • SECURITY
-                           |
-                           v
-              INTEGRATION • EXPERIENCE
-                           |
-                           v
-                  CONTROLS & GOVERNANCE
-                           |
-                           v
-                12 FINANCE STREAMS
-                           |
-                           v
-          LEARNING • LABS • RESEARCH • VALUE
+TRANSACTION
+   ↓
+PROCESS
+   ↓
+CONTROL
+   ↓
+DATA
+   ↓
+INSIGHT
+   ↓
+DECISION
+   ↓
+AUTOMATION
+   ↓
+AI AGENT
+   ↓
+AUTONOMOUS OUTCOME
 ```
 
-## Architecture Principles
+## SuccessLabs Academy
 
-1. **Business Centricity & Finance Agility**
-2. **Finance Data is the New Core**
-3. **Open & Connected Financial Ecosystem**
-4. **API-Led Integration**
-5. **Experience-Led Finance**
-6. **Scalable by Design**
-7. **Security, Privacy & Segregation of Duties by Design**
-8. **Automate First!**
-9. **AI with Human Accountability & Financial Controls**
-10. **Continuous Close, Continuous Insight, Continuous Improvement**
-11. **Control by Design**
-12. **Value, Cash, Risk and Compliance as Enterprise Outcomes**
-
-## Product-Series Navigation
-
-| Series | Theme |
-|---|---|
-| AFR1 | Applied SAP S/4HANA Finance |
-| APT2 | Applied SAP FI-AP |
-| AOT3 | Applied SAP FI-AR |
-| ATX4 | Applied SAP Document & Reporting Compliance (DRC) |
-| ATR5 | Applied SAP Treasury & Risk Management |
-| AFP6 | Applied SAP Analytics Cloud for Financial Planning, Budgeting & Forecasting |
-| ACC7 | Applied SAP S/4HANA Controlling |
-| AFA8 | Applied SAP Group Reporting & Financial Consolidation |
-| AGR9 | Applied SAP Governance, Risk & Compliance (GRC) |
-| AFI0 | Applied SAP Analytics Cloud for Finance |
-| AAI1-FI | Applied SAP Business AI • Joule • AI Agents for Finance |
-| AIG2-FI | Applied SAP Integration Suite for Finance |
-
-**SuccessLabs Academy**  
-*Architecting Experiences for a Better World*
+**Mission:** Architecting Experiences for a Better World.
