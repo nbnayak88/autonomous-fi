@@ -1,18 +1,37 @@
-# Build - Implementation Intelligence Lab
+# Build — ACC7 Controlling & Profitability
 
-**Course:** Applied SAP S/4HANA Controlling (Management Accounting)
-**Stream:** ACC7 — Controlling & Profitability
-
-This is the **Build - Implementation Intelligence Lab** within the Applied SAP S/4HANA Controlling (Management Accounting) learning journey.
+**Applied SAP Finance | ACC7 | Controlling & Profitability**
 
 ## Purpose
 
-Use this lab for enterprise examples, SAP process context, architecture thinking, experimentation, and reusable learning artifacts for the ACC7 Finance capability.
+Translate the target design into an SAP S/4HANA Controlling implementation backlog covering organizational structures, master data, allocations, costing, profitability, workflows, and controls.
 
-## Evidence to Build
+## Enterprise Question
 
-- Problem / opportunity statement
-- Process or capability view
-- Architecture or solution artifact
-- Industry scenario
-- Reflection and next-step experiment
+> How do we make cost, margin, profitability, and management decisions more transparent, connected, predictive, measurable, and increasingly autonomous?
+
+## Architecture Evidence
+
+Produce at least one reusable artifact:
+
+- process/value-stream view
+- capability or cost-driver map
+- cost/allocation model
+- solution/architecture view
+- data or integration flow
+- control/governance model
+- KPI or operating model
+- prototype/demo
+- scenario decision record
+
+## Learning Loop
+
+**Understand → Model → Experiment → Build → Validate → Reflect**
+
+## Controlling Context
+
+**Cost Capture → Allocation/Settlement → Costing → Plan/Actual → Variance → Margin → Profitability → Decision**
+
+## Definition of Done
+
+The learner can explain the management-accounting outcome, identify architecture dependencies, demonstrate the solution or decision, and connect the result to measurable cost or profitability value.

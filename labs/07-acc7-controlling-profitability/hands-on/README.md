@@ -1,5 +1,13 @@
-# Hands-on — Applied SAP S/4HANA Controlling (Management Accounting)
+# Hands-on — ACC7 Controlling & Profitability
 
-**Stream:** ACC7 — Controlling & Profitability
+**Applied SAP Finance | ACC7 | Controlling & Profitability**
 
-Shared workspace for hands-on associated with **Applied SAP S/4HANA Controlling (Management Accounting)**.
+Practice cost-center accounting, allocations, product costing, profitability analysis, variance analysis, closing, analytics, and architecture decisions.
+
+## Expected Output
+
+A reusable portfolio artifact demonstrating Controlling architecture thinking and practical cost/profitability problem-solving.
+
+## Evidence
+
+**Problem → Cost/Profitability Context → Analysis → Architecture/Experiment → Result → Reflection**
