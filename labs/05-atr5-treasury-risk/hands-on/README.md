@@ -1,5 +1,13 @@
-# Hands-on — Applied SAP Treasury & Risk Management
+# Hands-on — ATR5 Treasury & Risk Management
 
-**Stream:** ATR5 — Treasury & Risk
+**Applied SAP Finance | ATR5 | Treasury & Risk**
 
-Shared workspace for hands-on associated with **Applied SAP Treasury & Risk Management**.
+Practice cash positioning, liquidity forecasting, bank connectivity, payment flows, risk scenarios, reconciliations, controls, analytics, and architecture decisions.
+
+## Expected Output
+
+A reusable portfolio artifact demonstrating Treasury architecture thinking and practical financial-risk problem-solving.
+
+## Evidence
+
+**Problem → Financial Context → Analysis → Architecture/Experiment → Result → Reflection**

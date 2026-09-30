@@ -1,18 +1,37 @@
-# Evolve - Future Technologies Lab
+# Evolve — ATR5 Treasury & Risk Management
 
-**Course:** Applied SAP Treasury & Risk Management
-**Stream:** ATR5 — Treasury & Risk
-
-This is the **Evolve - Future Technologies Lab** within the Applied SAP Treasury & Risk Management learning journey.
+**Applied SAP Finance | ATR5 | Treasury & Risk**
 
 ## Purpose
 
-Use this lab for enterprise examples, SAP process context, architecture thinking, experimentation, and reusable learning artifacts for the ATR5 Finance capability.
+Explore autonomous Treasury, AI agents, predictive cash forecasting, intelligent payments, real-time liquidity, event-driven banking, digital assets, and advanced risk intelligence.
 
-## Evidence to Build
+## Enterprise Question
 
-- Problem / opportunity statement
-- Process or capability view
-- Architecture or solution artifact
-- Industry scenario
-- Reflection and next-step experiment
+> How do we make Treasury more visible, liquid, resilient, controlled, connected, intelligent, and increasingly autonomous?
+
+## Architecture Evidence
+
+Produce at least one reusable artifact:
+
+- process/value-stream view
+- capability map
+- cash/liquidity model
+- solution/architecture view
+- data or integration flow
+- risk/control matrix
+- KPI or operating model
+- prototype/demo
+- scenario decision record
+
+## Learning Loop
+
+**Understand → Model → Experiment → Build → Validate → Reflect**
+
+## Treasury Context
+
+**Forecast → Liquidity → Risk/Exposure → Decision → Payment/Investment/Funding → Bank → Reconciliation → Accounting → Insight**
+
+## Definition of Done
+
+The learner can explain the financial outcome, identify architecture dependencies, demonstrate the solution or decision, and connect the result to measurable Treasury value.

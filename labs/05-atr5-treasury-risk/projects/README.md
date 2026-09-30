@@ -1,5 +1,13 @@
-# Projects — Applied SAP Treasury & Risk Management
+# Projects — ATR5 Treasury & Risk Management
 
-**Stream:** ATR5 — Treasury & Risk
+**Applied SAP Finance | ATR5 | Treasury & Risk**
 
-Shared workspace for projects associated with **Applied SAP Treasury & Risk Management**.
+Build a portfolio-grade Autonomous Treasury Operations project covering liquidity, cash, banking, payments, funding, risk, data, integration, AI, KPIs, controls, and transformation roadmap.
+
+## Expected Output
+
+A reusable portfolio artifact demonstrating Treasury architecture thinking and practical financial-risk problem-solving.
+
+## Evidence
+
+**Problem → Financial Context → Analysis → Architecture/Experiment → Result → Reflection**
