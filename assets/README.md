@@ -3,8 +3,9 @@
 Reusable assets include:
 
 - Architecture diagrams
-- Process maps
 - Capability maps
+- Process maps
+- Value-stream maps
 - Data models
 - Integration patterns
 - Control matrices
@@ -15,3 +16,4 @@ Reusable assets include:
 - Certification trackers
 - Presales toolkits
 - Research briefs
+- Transformation playbooks
