@@ -1,7 +1,7 @@
 # Architecting Autonomous Finance
 
-**Repository:** `autonomous-fi`  
-**Learning Ecosystem:** SuccessLabs Academy  
+**Repository:** `autonomous-fi`  \
+**Learning Ecosystem:** SuccessLabs Academy  \
 **Domain:** Finance / Financial Transformation / Enterprise Architecture
 
 ## Purpose
@@ -60,7 +60,7 @@ Finance is treated as an enterprise capability ecosystem connecting people, proc
 | # | Code | Stream | Product / Course Theme |
 |---:|---|---|---|
 | 01 | AFR1 | [Record to Report](streams/AFR1-record-to-report.md) | Applied SAP S/4HANA Finance |
-| 02 | APT2 | Procure to Pay | Applied SAP FI-AP |
+| 02 | APT2 | [Procure to Pay](streams/APT2-procure-to-pay.md) | Applied SAP FI-AP |
 | 03 | AOT3 | Order to Cash | Applied SAP FI-AR |
 | 04 | ATX4 | Tax & Compliance | Applied SAP Document & Reporting Compliance (DRC) |
 | 05 | ATR5 | Treasury & Risk | Applied SAP Treasury & Risk Management |
