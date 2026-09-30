@@ -1,12 +1,12 @@
 # Finance Learning Ecosystem
 
-Learning is organized by the 12 Finance Architecture Streams and 20 SuccessLabs tracks.
+Learning is organized by the 12 Finance Architecture Streams and the 20 SuccessLabs tracks.
 
-## 12 Streams
+## Learning Architecture
 
-AFR1 · APT2 · AOT3 · ATX4 · ATR5 · AFP6 · ACC7 · AFA8 · AGR9 · AFI0 · AAI1-FI · AIG2-FI
+**KNOW → DESIGN → DELIVER → SOLVE → INFLUENCE → TRANSFORM**
 
-## 20 SuccessLabs Tracks
+Every stream should develop scenario-driven learning across:
 
 1. Product
 2. Process
@@ -28,9 +28,3 @@ AFR1 · APT2 · AOT3 · ATX4 · ATR5 · AFP6 · ACC7 · AFA8 · AGR9 · AFI0 · 
 18. AMA
 19. Industry
 20. Research
-
-## Learning Architecture
-
-**KNOW → DESIGN → DELIVER → SOLVE → INFLUENCE → TRANSFORM**
-
-Each stream should evolve into platform-neutral, scenario-driven learning assets across the full finance lifecycle.
