@@ -1,18 +1,38 @@
-# Validate - Quality Assurance Lab
+# Validate — AFI0 Finance Analytics & Intelligence
 
-**Course:** Applied SAP Analytics Cloud for Finance
-**Stream:** AFI0 — Finance Analytics & Intelligence
-
-This is the **Validate - Quality Assurance Lab** within the Applied SAP Analytics Cloud for Finance learning journey.
+**Applied SAP Finance | AFI0 | Finance Analytics & Intelligence**
 
 ## Purpose
 
-Use this lab for enterprise examples, SAP process context, architecture thinking, experimentation, and reusable learning artifacts for the AFI0 Finance capability.
+Build QA for financial metrics, semantic models, reconciliations, data lineage, authorizations, dashboards, refreshes, performance, planning inputs, and executive reporting.
 
-## Evidence to Build
+## Enterprise Question
 
-- Problem / opportunity statement
-- Process or capability view
-- Architecture or solution artifact
-- Industry scenario
-- Reflection and next-step experiment
+> How do we move from reporting what happened to understanding why, anticipating what is next, and enabling better finance decisions?
+
+## Architecture Evidence
+
+Produce at least one reusable artifact:
+
+- capability or decision map
+- KPI/metric tree
+- semantic/data model
+- data lineage/integration flow
+- dashboard/UX
+- analytics governance model
+- predictive/AI opportunity map
+- operating model
+- prototype/demo
+- scenario decision record
+
+## Learning Loop
+
+**Understand → Model → Experiment → Build → Validate → Reflect**
+
+## Finance Intelligence Context
+
+**Source Data → Semantic Model → Metric → Analysis → Insight → Decision → Action → Outcome**
+
+## Definition of Done
+
+The learner can explain the business decision, identify required data and architecture dependencies, demonstrate the analytical solution, validate its trustworthiness, and connect the result to measurable business value.
