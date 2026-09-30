@@ -1,18 +1,38 @@
-# Validate - Quality Assurance Lab
+# Validate — AFA8 Asset Accounting
 
-**Course:** Applied SAP Asset Accounting
-**Stream:** AFA8 — Asset Accounting
-
-This is the **Validate - Quality Assurance Lab** within the Applied SAP Asset Accounting learning journey.
+**Applied SAP Finance | AFA8 | Asset Accounting**
 
 ## Purpose
 
-Use this lab for enterprise examples, SAP process context, architecture thinking, experimentation, and reusable learning artifacts for the AFA8 Finance capability.
+Build QA scenarios for asset creation, acquisition, capitalization, depreciation, transfers, retirements, disposals, impairment, postings, integration, reconciliation, period close, reporting, and authorization.
 
-## Evidence to Build
+## Enterprise Question
 
-- Problem / opportunity statement
-- Process or capability view
-- Architecture or solution artifact
-- Industry scenario
-- Reflection and next-step experiment
+> How do we make the complete asset lifecycle financially accurate, operationally connected, auditable, measurable, and increasingly intelligent?
+
+## Architecture Evidence
+
+Produce at least one reusable artifact:
+
+- asset lifecycle/value-stream view
+- capability or asset-class map
+- capitalization/depreciation model
+- solution/architecture view
+- data or integration flow
+- control/governance model
+- KPI or operating model
+- prototype/demo
+- migration or QA evidence
+- scenario decision record
+
+## Learning Loop
+
+**Understand → Model → Experiment → Build → Validate → Reflect**
+
+## Asset Lifecycle Context
+
+**Acquire → Capitalize → Classify → Depreciate → Adjust/Transfer → Retire/Dispose → Reconcile → Report**
+
+## Definition of Done
+
+The learner can explain the accounting and business outcome, identify architecture dependencies, demonstrate the solution or decision, and connect the result to measurable asset, financial, or control value.
