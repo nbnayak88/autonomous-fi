@@ -1,18 +1,36 @@
-# Run - Operations Optimization Lab
+# Run — APT2 Procure to Pay
 
-**Course:** Applied SAP FI-Accounts Payable (AP)
-**Stream:** APT2 — Procure to Pay
-
-This is the **Run - Operations Optimization Lab** within the Applied SAP FI-Accounts Payable (AP) learning journey.
+**Applied SAP Finance | APT2 | Procure to Pay**
 
 ## Purpose
 
-Use this lab for enterprise examples, SAP process context, architecture thinking, experimentation, and reusable learning artifacts for the APT2 Finance capability.
+Design the P2P operating model for Procurement, AP, Treasury, Finance, suppliers, exceptions, and service management.
 
-## Evidence to Build
+## Enterprise Question
 
-- Problem / opportunity statement
-- Process or capability view
-- Architecture or solution artifact
-- Industry scenario
-- Reflection and next-step experiment
+> How do we make this part of P2P faster, safer, more connected, measurable, and increasingly autonomous?
+
+## Architecture Evidence
+
+Produce at least one reusable artifact:
+
+- process/value-stream view
+- capability map
+- solution/architecture view
+- data or integration flow
+- control matrix
+- KPI or operating model
+- prototype/demo
+- scenario decision record
+
+## Learning Loop
+
+**Understand → Model → Experiment → Build → Measure → Reflect**
+
+## P2P Context
+
+**Demand → Requisition → PO → Receipt/SES → Invoice → Match → AP → Payment → Clearing**
+
+## Definition of Done
+
+The learner can explain the business outcome, identify the architecture dependencies, demonstrate the solution or decision, and connect the result to measurable P2P value.
