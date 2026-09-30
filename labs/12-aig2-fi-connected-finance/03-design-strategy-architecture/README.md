@@ -1,18 +1,38 @@
-# Design - Strategy & Architecture Lab
+# Design — AIG2-FI Connected Finance
 
-**Course:** Applied SAP Integration Suite for Finance
-**Stream:** AIG2-FI — Connected Finance
-
-This is the **Design - Strategy & Architecture Lab** within the Applied SAP Integration Suite for Finance learning journey.
+**Applied SAP Finance | AIG2-FI | Connected Finance**
 
 ## Purpose
 
-Use this lab for enterprise examples, SAP process context, architecture thinking, experimentation, and reusable learning artifacts for the AIG2-FI Finance capability.
+Create the target Connected Finance architecture across business capabilities, APIs, events, applications, data, integration, security, cloud, AI, and enterprise architecture.
 
-## Evidence to Build
+## Enterprise Question
 
-- Problem / opportunity statement
-- Process or capability view
-- Architecture or solution artifact
-- Industry scenario
-- Reflection and next-step experiment
+> How do we make finance securely connected to every ecosystem participant, while making transactions, responses, exceptions, and reconciliation observable and increasingly autonomous?
+
+## Architecture Evidence
+
+Produce at least one reusable artifact:
+
+- ecosystem/capability map
+- value-stream or integration flow
+- API/event model
+- solution/architecture view
+- data/message lineage
+- security/connectivity model
+- monitoring/observability model
+- reconciliation/control model
+- prototype/demo
+- scenario decision record
+
+## Learning Loop
+
+**Understand → Model → Experiment → Build → Validate → Reflect**
+
+## Connected Finance Context
+
+**Business Event → API/Event → Partner → Response → Accounting → Reconciliation → Insight**
+
+## Definition of Done
+
+The learner can explain the business outcome, identify integration and architecture dependencies, demonstrate the connected solution, validate security and resilience, and connect the result to measurable finance or ecosystem value.

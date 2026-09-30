@@ -1,5 +1,13 @@
-# Hands-on — Applied SAP Integration Suite for Finance
+# Hands-on — AIG2-FI Connected Finance
 
-**Stream:** AIG2-FI — Connected Finance
+**Applied SAP Finance | AIG2-FI | Connected Finance**
 
-Shared workspace for hands-on associated with **Applied SAP Integration Suite for Finance**.
+Practice API-led and event-driven finance integration, mappings, monitoring, reconciliation, partner connectivity, exception handling, and architecture decisions.
+
+## Expected Output
+
+A reusable portfolio artifact demonstrating Connected Finance architecture thinking and practical ecosystem-integration problem-solving.
+
+## Evidence
+
+**Business Event → Connection → Transaction → Response → Reconciliation → Result → Reflection**
