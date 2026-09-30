@@ -62,7 +62,7 @@ Finance is treated as an enterprise capability ecosystem connecting people, proc
 | 01 | AFR1 | [Record to Report](streams/AFR1-record-to-report.md) | Applied SAP S/4HANA Finance |
 | 02 | APT2 | [Procure to Pay](streams/APT2-procure-to-pay.md) | Applied SAP FI-AP |
 | 03 | AOT3 | [Order to Cash](streams/AOT3-order-to-cash.md) | Applied SAP FI-AR |
-| 04 | ATX4 | Tax & Compliance | Applied SAP Document & Reporting Compliance (DRC) |
+| 04 | ATX4 | [Tax & Compliance](streams/ATX4-tax-compliance.md) | Applied SAP Document & Reporting Compliance (DRC) |
 | 05 | ATR5 | Treasury & Risk | Applied SAP Treasury & Risk Management |
 | 06 | AFP6 | Financial Planning & Performance | Applied SAP Analytics Cloud for Financial Planning, Budgeting & Forecasting |
 | 07 | ACC7 | Controlling & Profitability | Applied SAP S/4HANA Controlling |
