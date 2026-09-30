@@ -1,5 +1,13 @@
-# Hands-on — Applied SAP FI-Accounts Receivable (AR)
+# Hands-on — AOT3 Order to Cash
 
-**Stream:** AOT3 — Order to Cash
+**Applied SAP Finance | AOT3 | Order to Cash**
 
-Shared workspace for hands-on associated with **Applied SAP FI-Accounts Receivable (AR)**.
+Practice order-to-cash process mapping, billing, credit, receivables, collections, cash application, controls, integration, analytics, and architecture decisions.
+
+## Expected Output
+
+A reusable portfolio artifact demonstrating O2C architecture thinking and practical problem-solving.
+
+## Evidence
+
+**Problem → Analysis → Architecture/Experiment → Result → Reflection**

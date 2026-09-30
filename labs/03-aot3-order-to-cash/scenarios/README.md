@@ -1,5 +1,13 @@
-# Scenarios — Applied SAP FI-Accounts Receivable (AR)
+# Scenarios — AOT3 Order to Cash
 
-**Stream:** AOT3 — Order to Cash
+**Applied SAP Finance | AOT3 | Order to Cash**
 
-Shared workspace for scenarios associated with **Applied SAP FI-Accounts Receivable (AR)**.
+Solve realistic O2C situations such as credit block, billing error, pricing variance, disputed invoice, overdue receivable, failed cash application, bad debt risk, and global localization.
+
+## Expected Output
+
+A reusable portfolio artifact demonstrating O2C architecture thinking and practical problem-solving.
+
+## Evidence
+
+**Problem → Analysis → Architecture/Experiment → Result → Reflection**
