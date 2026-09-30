@@ -1,5 +1,13 @@
-# Scenarios — Applied SAP Governance, Risk & Compliance (GRC)
+# Scenarios — AGR9 Governance, Risk & Compliance
 
-**Stream:** AGR9 — Governance, Risk & Compliance
+**Applied SAP Finance | AGR9 | Governance, Risk & Compliance**
 
-Shared workspace for scenarios associated with **Applied SAP Governance, Risk & Compliance (GRC)**.
+Solve realistic GRC situations such as SoD conflict, failed control, regulatory change, audit finding, access-risk escalation, missing evidence, and remediation delay.
+
+## Expected Output
+
+A reusable portfolio artifact demonstrating GRC architecture thinking and practical risk/control problem-solving.
+
+## Evidence
+
+**Problem → Risk/Compliance Context → Analysis → Architecture/Experiment → Result → Reflection**

@@ -1,18 +1,38 @@
-# Innovate - Research & Innovation Lab
+# Innovate — AGR9 Governance, Risk & Compliance
 
-**Course:** Applied SAP Governance, Risk & Compliance (GRC)
-**Stream:** AGR9 — Governance, Risk & Compliance
-
-This is the **Innovate - Research & Innovation Lab** within the Applied SAP Governance, Risk & Compliance (GRC) learning journey.
+**Applied SAP Finance | AGR9 | Governance, Risk & Compliance**
 
 ## Purpose
 
-Use this lab for enterprise examples, SAP process context, architecture thinking, experimentation, and reusable learning artifacts for the AGR9 Finance capability.
+Research the future of autonomous GRC and convert findings into experiments around continuous assurance, AI risk agents, control intelligence, regulatory change, and enterprise resilience.
 
-## Evidence to Build
+## Enterprise Question
 
-- Problem / opportunity statement
-- Process or capability view
-- Architecture or solution artifact
-- Industry scenario
-- Reflection and next-step experiment
+> How do we make risk, controls, compliance, evidence, and remediation connected, measurable, auditable, and increasingly continuous?
+
+## Architecture Evidence
+
+Produce at least one reusable artifact:
+
+- GRC capability/risk map
+- control or compliance model
+- risk/control value stream
+- solution/architecture view
+- data or integration flow
+- SoD/access model
+- evidence/control-testing model
+- KPI or operating model
+- prototype/demo
+- scenario decision record
+
+## Learning Loop
+
+**Understand → Model → Experiment → Build → Validate → Reflect**
+
+## GRC Context
+
+**Obligation → Risk → Control → Evidence → Exception → Remediation → Assurance**
+
+## Definition of Done
+
+The learner can explain the governance or control outcome, identify architecture dependencies, demonstrate the solution or decision, and connect the result to measurable risk, compliance, control, or assurance value.
