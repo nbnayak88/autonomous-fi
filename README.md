@@ -69,7 +69,7 @@ Finance is treated as an enterprise capability ecosystem connecting people, proc
 | 08 | AFA8 | [Asset Accounting](streams/AFA8-asset-accounting.md) | Applied SAP Group Reporting & Financial Consolidation |
 | 09 | AGR9 | [Governance, Risk & Compliance](streams/AGR9-governance-risk-compliance.md) | Applied SAP Governance, Risk & Compliance (GRC) |
 | 10 | AFI0 | [Finance Analytics & Intelligence](streams/AFI0-finance-analytics-intelligence.md) | Applied SAP Analytics Cloud for Finance |
-| 11 | AAI1-FI | AI-Powered Finance | Applied SAP Business AI • Joule • AI Agents for Finance |
+| 11 | AAI1-FI | [AI-Powered Finance](streams/AAI1-FI-ai-powered-finance.md) | Applied SAP Business AI • Joule • AI Agents for Finance |
 | 12 | AIG2-FI | Connected Finance | Applied SAP Integration Suite for Finance |
 
 ### Stream Files
