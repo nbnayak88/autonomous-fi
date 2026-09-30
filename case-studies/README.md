@@ -4,14 +4,15 @@ Document real or anonymized finance transformation scenarios using:
 
 **Situation → Business Challenge → Architecture → Design Decisions → Implementation → Outcome → Lessons Learned**
 
-Prioritize cross-stream cases such as:
-- Global ERP finance transformation
+## Priority Scenarios
+
+- Global finance transformation
+- Autonomous financial close
 - AP automation
-- O2C collections transformation
-- Tax digitalization
+- O2C and collections transformation
+- Digital tax and e-invoicing
 - Treasury modernization
 - FP&A transformation
 - Group consolidation
-- Finance analytics
-- Autonomous close
+- Finance analytics and decision intelligence
 - Connected finance ecosystem
